@@ -1,0 +1,25 @@
+﻿## Interface: 30300
+## Title: AtlasLoot_Triumvirate
+## Title-deDE: AtlasLoot |cFF0099FF[BC-Instanzen]|r
+## Title-zhCN: AtlasLoot |cFF0099FF[燃烧的远征]|r
+## Title-zhTW: |r|cFF0099FF[地圖]|rAL 燃燒的遠征
+## Notes: AtlasLoot loot tables for additional Triumvirate-wow content
+## Author: Twisty
+## Notes-deDE: AtlasLoot Loot-Tabellen für Burning Crusade Instanzen
+## Notes-zhCN: AtlasLoot Enhanced 的《燃烧的远征》副本掉落信息
+## Notes-zhTW: AtlasLoot 燃燒的遠征副本掉落物品資料庫
+## Version: 1.0
+## X-eMail: manager@atlasloot.net
+## X-Category: Map
+## X-License: GPL v2
+## X-Website: http://www.atlasloot.net
+## Dependencies: AtlasLoot
+## LoadOnDemand: 1
+## X-Curse-Packaged-Version: v5.11.04
+## X-Curse-Project-Name: Atlasloot Enhanced
+## X-Curse-Project-ID: atlasloot-enhanced
+## X-Curse-Repository-ID: wow/atlasloot-enhanced/mainline
+
+
+triumvirate.lua
+localization.lua
