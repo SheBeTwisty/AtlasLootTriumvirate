@@ -6,6 +6,10 @@ Website     : http://www.atlasloot.net
 Description : Adds AtlasLoot to FuBar.
 ]]
 
+
+BINDING_HEADER_AtlasLootFu = "AtlasLoot"
+BINDING_NAME_AtlasLootFu = "Toggle AtlasLoot Window"
+
 --Invoke libraries
 local tablet = AceLibrary("Tablet-2.0");
 
