@@ -1798,6 +1798,7 @@ end
 	AtlasLoot_TableNames["TRIUMVIRATEMENU"] = { AL["Triumvirate"], "Menu" };
 	AtlasLoot_TableNames["MPLUSMENU"] = { AL["Mythic+ Menu"], "Menu"};
 	AtlasLoot_TableNames["TIER1SETS"] = { AL["Tier 1"], "Menu" };
+	AtlasLoot_TableNames["DUNGEON_QEPICSMENU"] = { AL["Dungeon Quest Epics Menu"], "Menu"};
 	AtlasLoot_TableNames["MPLUSPLATE"] = { AL["Mythic+ Plate"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["MPLUSMAIL"] = { AL["Mythic+ Mail"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["MPLUSLEATHER"] = { AL["Mythic+ Leather"], "AtlasLootTriumvirate"};
@@ -1819,6 +1820,14 @@ end
 	AtlasLoot_TableNames["TIER1SETS_WARLOCK"] = { AL["Tier 1 Warlock"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["TIER1SETS_DRUID"] = { AL["Tier 1 Druid"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["TIER1SETS_DEATHKNIGHT"] = { AL["Tier 1 DeathKnight"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS1"] = { AL["Dungeon Quest Epics 1"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS2"] = { AL["Dungeon Quest Epics 2"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS3"] = { AL["Dungeon Quest Epics 3"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS4"] = { AL["Dungeon Quest Epics 4"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS5"] = { AL["Dungeon Quest Epics 5"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS6"] = { AL["Dungeon Quest Epics 6"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS7"] = { AL["Dungeon Quest Epics 7"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS8"] = { AL["Dungeon Quest Epics 8"], "AtlasLootTriumvirate"};
 
   -- If all else fails!
 	AtlasLoot_TableNames["EmptyTable"] = { AL["Select a Loot Table..."], "Menu" };

@@ -41,6 +41,8 @@ local BabbleZone = AtlasLoot_GetLocaleLibBabble("LibBabble-Zone-3.0")
 		{ 3, "MPLUSMENU", "Spell_Holy_ProclaimChampion_02", "=ds=Mythic+", ""};
 		{ 4, "WALKOFECHOES", "spell_holy_summonchampion", "=ds=Walk of Echoes", ""};
 		{ 6, "TRANSMOG", "INV_Trinket_Naxxramas02", "=ds=Transmog", ""};
+		{ 9, 0, "INV_Box_01", "=q6=Misc", ""};
+		{ 10, "DUNGEON_QEPICSMENU", "achievement_quests_completed_06", "=ds=Dungeon Quest Epics", ""};
 		{ 16, 0, "INV_Box_01", "=q6=Tier Sets", ""};
 		{ 17, "TIER1SETS", "INV_Pants_Mail_03", "=ds=Tier 1", ""};
 	}
@@ -68,6 +70,12 @@ local BabbleZone = AtlasLoot_GetLocaleLibBabble("LibBabble-Zone-3.0")
 		{ 4, "TIER1SETS_DEATHKNIGHT", "Spell_Deathknight_DeathStrike", "DeathKnight", ""};
 		Back = "TRIUMVIRATEMENU";
 	};
+
+	AtlasLoot_Data["DUNGEON_QEPICSMENU"] = {
+		{ 1, "DUNGEON_QEPICS1", "achievement_zone_westfall_01", "=ds=Classic Dungeons", ""};
+		{ 2, "DUNGEON_QEPICS5", "achievement_zone_shadowmoon", "=ds=BurningCrusade Dungeons", ""};
+		Back = "TRIUMVIRATEMENU";
+	}
 
 	-----
 	-----
