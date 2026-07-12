@@ -43,6 +43,7 @@ local BabbleZone = AtlasLoot_GetLocaleLibBabble("LibBabble-Zone-3.0")
 		{ 6, "TRANSMOG", "INV_Trinket_Naxxramas02", "=ds=Transmog", ""};
 		{ 9, 0, "INV_Box_01", "=q6=Misc", ""};
 		{ 10, "DUNGEON_QEPICSMENU", "achievement_quests_completed_06", "=ds=Dungeon Quest Epics", ""};
+		{ 11, "DONATIONSHOP1", "INV_Box_01", "=ds=Donation Shop", ""};
 		{ 16, 0, "INV_Box_01", "=q6=Tier Sets", ""};
 		{ 17, "TIER1SETS", "INV_Pants_Mail_03", "=ds=Tier 1", ""};
 	}

@@ -1808,8 +1808,8 @@ end
 	AtlasLoot_TableNames["LEGENDARIES"] = { AL["Legendary Items"], "AtlasLootTriumvirate" };
 	AtlasLoot_TableNames["WALKOFECHOES"] = { AL["Walk of Echoes"], "AtlasLootTriumvirate" };
 	AtlasLoot_TableNames["TRANSMOG"] = { AL["Transmog"], "AtlasLootTriumvirate" };
-	AtlasLoot_TableNames["TRANSMOG2"] = { AL["Transmog 2"], "AtlasLootTriumvirate" };
-	AtlasLoot_TableNames["TRANSMOG3"] = { AL["Transmog 3"], "AtlasLootTriumvirate" };
+	AtlasLoot_TableNames["TRANSMOG2"] = { AL["Transmog"], "AtlasLootTriumvirate" };
+	AtlasLoot_TableNames["TRANSMOG3"] = { AL["Transmog"], "AtlasLootTriumvirate" };
 	AtlasLoot_TableNames["TIER1SETS_WARRIOR"] = { AL["Tier 1 Warrior"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["TIER1SETS_PALADIN"] = { AL["Tier 1 Paladin"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["TIER1SETS_HUNTER"] = { AL["Tier 1 Hunter"], "AtlasLootTriumvirate"};
@@ -1820,14 +1820,17 @@ end
 	AtlasLoot_TableNames["TIER1SETS_WARLOCK"] = { AL["Tier 1 Warlock"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["TIER1SETS_DRUID"] = { AL["Tier 1 Druid"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["TIER1SETS_DEATHKNIGHT"] = { AL["Tier 1 DeathKnight"], "AtlasLootTriumvirate"};
-	AtlasLoot_TableNames["DUNGEON_QEPICS1"] = { AL["Dungeon Quest Epics 1"], "AtlasLootTriumvirate"};
-	AtlasLoot_TableNames["DUNGEON_QEPICS2"] = { AL["Dungeon Quest Epics 2"], "AtlasLootTriumvirate"};
-	AtlasLoot_TableNames["DUNGEON_QEPICS3"] = { AL["Dungeon Quest Epics 3"], "AtlasLootTriumvirate"};
-	AtlasLoot_TableNames["DUNGEON_QEPICS4"] = { AL["Dungeon Quest Epics 4"], "AtlasLootTriumvirate"};
-	AtlasLoot_TableNames["DUNGEON_QEPICS5"] = { AL["Dungeon Quest Epics 5"], "AtlasLootTriumvirate"};
-	AtlasLoot_TableNames["DUNGEON_QEPICS6"] = { AL["Dungeon Quest Epics 6"], "AtlasLootTriumvirate"};
-	AtlasLoot_TableNames["DUNGEON_QEPICS7"] = { AL["Dungeon Quest Epics 7"], "AtlasLootTriumvirate"};
-	AtlasLoot_TableNames["DUNGEON_QEPICS8"] = { AL["Dungeon Quest Epics 8"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS1"] = { AL["Dungeon Quest Epics"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS2"] = { AL["Dungeon Quest Epics"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS3"] = { AL["Dungeon Quest Epics"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS4"] = { AL["Dungeon Quest Epics"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS5"] = { AL["Dungeon Quest Epics"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS6"] = { AL["Dungeon Quest Epics"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS7"] = { AL["Dungeon Quest Epics"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DUNGEON_QEPICS8"] = { AL["Dungeon Quest Epics"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["DONATIONSHOP1"] = { AL["Donation Shop"], "AtlasLootTriumvirate" };
+	AtlasLoot_TableNames["DONATIONSHOP2"] = { AL["Donation Shop"], "AtlasLootTriumvirate" };
+	AtlasLoot_TableNames["DONATIONSHOP3"] = { AL["Donation Shop"], "AtlasLootTriumvirate" };
 
   -- If all else fails!
 	AtlasLoot_TableNames["EmptyTable"] = { AL["Select a Loot Table..."], "Menu" };

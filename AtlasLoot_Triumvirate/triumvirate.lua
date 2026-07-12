@@ -698,6 +698,96 @@ AtlasLoot_Data["LEGENDARIES"] = {
 		Back = "DUNGEON_QEPICSMENU";
 	};
 
+	AtlasLoot_Data["DONATIONSHOP1"] = {
+		{ 1, 0, "INV_Box_01", "=q6=Consumables", ""};
+		{ 2, 21215, "", "=q4=Graccu's Mince Meat Fruitcake", "200VP/50DP"};
+		{ 3, 23162, "", "=q4=Foror's Crate", "100VP/30DP"};
+		{ 4, 53025, "", "=q4=Potion of Double Reputation", "40VP/10DP"};
+		{ 5, 53024, "", "=q4=Potion of Double Experience", "40VP/10DP"};
+		{ 7, 0, "INV_Box_01", "=q6=Mounts", ""};
+		{ 8, 20221, "", "=q4=Foror's Fabled Steed", "200VP/50DP"};
+		{ 9, 21176, "", "=q4=Black Qiraji Resonating Crystal", "200VP/50DP"};
+		{ 10, 49286, "", "=q4=X-51 Nether-Rocket X-TREME", "200VP/50DP"};
+		{ 11, 49282, "", "=q4=Big Battle Bear", "120VP/30DP"};
+		{ 12, 37719, "", "=q4=Swift Zhevra", "120VP/30DP"};
+		{ 13, 54811, "", "=q4=Celestial Steed", "200VP/50DP"};
+		{ 14, 50250, "", "=q4=Big Love Rocket", "200VP/50DP"};
+		{ 16, 0, "INV_Box_01", "=q6=Profession Boosts", ""};
+		{ 17, 53041, "", "=q4=First Aid (375)", "40VP/10DP"};
+		{ 18, 53042, "", "=q4=Fishing (375)", "80VP/20DP"};
+		{ 19, 53040, "", "=q4=Cooking (375)", "80VP/20DP"};
+		{ 20, 53037, "", "=q4=Skinning (375)", "80VP/20DP"};
+		{ 21, 53033, "", "=q4=Mining (375)", "80VP/20DP"};
+		{ 22, 53032, "", "=q4=Herbalism (375)", "80VP/20DP"};
+		{ 23, 53039, "", "=q4=Inscription (375)", "120VP/30DP"};
+		{ 24, 53038, "", "=q4=Jewelcrafting (375)", "120VP/30DP"};
+		{ 25, 53036, "", "=q4=Enchanting (375)", "120VP/30DP"};
+		{ 26, 53035, "", "=q4=Engineering (375)", "120VP/30DP"};
+		{ 27, 53034, "", "=q4=Tailoring (375)", "120VP/30DP"};
+		{ 28, 53031, "", "=q4=Alchemy (375)", "120VP/30DP"};
+		{ 29, 53030, "", "=q4=Leatherworking (375)", "120VP/30DP"};
+		{ 30, 53029, "", "=q4=Blacksmithing (375)", "120VP/30DP"};
+		Next = "DONATIONSHOP2";
+		Back = "TRIUMVIRATEMENU";
+	};
+
+	AtlasLoot_Data["DONATIONSHOP2"] = {
+		{ 1, 0, "INV_Box_01", "=q6=Toys", ""};
+		{ 2, 54455, "", "=q4=Paint Bomb", "50VP"};
+		{ 3, 46779, "", "=q4=Path of Cenarius", "50VP"};
+		{ 4, 38577, "", "=q4=Party G.R.E.N.A.D.E", "50VP"};
+		{ 5, 38578, "", "=q4=The Flag of Ownership", "50VP"};
+		{ 6, 38301, "", "=q4=D.I.S.C.O", "50VP"};
+		{ 7, 45063, "", "=q4=Foam Sword Rack", "10DP"};
+		{ 8, 45047, "", "=q4=Sandbox Tiger", "10DP"};
+		{ 9, 38233, "", "=q4=Path of Illidan", "10DP"};
+		{ 10, 33223, "", "=q4=Fishing Chair", "10DP"};
+		{ 11, 52201, "", "=q4=Muradin's Favor", "10DP"};
+		{ 12, 34480, "", "=q4=Romantic Picnic Basket", "10DP"};
+		{ 16, 0, "INV_Box_01", "=q6=Pets", ""};
+		{ 17, 32588, "", "=q4=Banana Charm", "50VP"};
+		{ 18, 34493, "", "=q4=Dragon Kite", "50VP"};
+		{ 19, 34492, "", "=q4=Rocket Chicken", "50VP"};
+		{ 20, 25535, "", "=q4=Netherwhelp's Collar", "50VP"};
+		{ 21, 22114, "", "=q4=Pink Murloc Egg", "50VP"};
+		{ 22, 45180, "", "=q4=Murkimus' Little Spear", "50VP"};
+		{ 23, 13584, "", "=q4=Diablo Stone", "50VP"};
+		{ 24, 39656, "", "=q4=Tyrael's Hilt", "10DP"};
+		{ 25, 56806, "", "=q4=Mini Thor", "10DP"};
+		{ 26, 41133, "", "=q4=Unhatched Mr. Chilly", "10DP"};
+		{ 27, 13583, "", "=q4=Panda Collar", "10DP"};
+		{ 28, 30360, "", "=q4=Lurky's Egg", "10DP"};
+		{ 29, 39286, "", "=q4=Frosty's Collar", "10DP"};
+		Next = "DONATIONSHOP3";
+		Prev = "DONATIONSHOP1";
+		Back = "TRIUMVIRATEMENU";
+	};
+
+	AtlasLoot_Data["DONATIONSHOP3"] = {
+		{ 1, 0, "INV_Box_01", "=q6=Tabards", ""};
+		{ 2, 23705, "", "=q4=Tabard of Flame", "60VP/15DP"};
+		{ 3, 23709, "", "=q4=Tabard of Frost", "60VP/15DP"};
+		{ 4, 38309, "", "=q4=Tabard of Nature", "60VP/15DP"};
+		{ 5, 38310, "", "=q4=Tabard of the Arcane", "60VP/15DP"};
+		{ 6, 38311, "", "=q4=Tabard of the Void", "60VP/15DP"};
+		{ 7, 38312, "", "=q4=Tabard of Brilliance", "60VP/15DP"};
+		{ 8, 38313, "", "=q4=Tabard of Fury", "60VP/15DP"};
+		{ 9, 43349, "", "=q4=Tabard of Brute Force", "60VP/15DP"};
+		{ 10, 38314, "", "=q4=Tabard of the Defender", "60VP/15DP"};
+		{ 11, 24344, "", "=q4=Tabard of the Hand", "60VP/15DP"};
+		{ 12, 31404, "", "=q4=Green Trophy Tabard of the Illidari", "60VP/15DP"};
+		{ 13, 31405, "", "=q4=Purple Trophy Tabard of the Illidari", "60VP/15DP"};
+		{ 14, 20131, "", "=q4=Battle Tabard of the Defilers", "60VP/15DP"};
+		{ 15, 52252, "", "=q4=Tabard of the Lightbringer", "60VP/15DP"};
+		{ 16, 0, "INV_Box_01", "=q6=Services", ""};
+		{ 17, 0, "inv_inscription_parchmentvar04", "=q4=Faction Change", "80VP/2DP"};
+		{ 18, 0, "inv_inscription_parchmentvar04", "=q4=Name Change", "40VP/10DP"};
+		{ 19, 0, "inv_inscription_parchmentvar04", "=q4=Customize", "60VP/15DP"};
+		{ 20, 0, "inv_inscription_parchmentvar04", "=q4=Race Change", "70VP/15DP"};
+		Prev = "DONATIONSHOP2";
+		Back = "TRIUMVIRATEMENU";
+	};
+
 	AtlasLoot_Data["EmptyTable"] = {
 	};
 

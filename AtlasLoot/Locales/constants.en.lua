@@ -147,8 +147,6 @@ if AL then
 	AL["Walk of Echoes"] = true;
 	AL["Tier 1"] = true;
 	AL["Transmog"] = true;
-	AL["Transmog 2"] = true;
-	AL["Transmog 3"] = true;
 	AL["Tier 1 Warrior"] = true;
 	AL["Tier 1 Paladin"] = true;
 	AL["Tier 1 Hunter"] = true;
@@ -160,14 +158,9 @@ if AL then
 	AL["Tier 1 Druid"] = true;
 	AL["Tier 1 DeathKnight"] = true;
 	AL["Dungeon Quest Epics Menu"] = true;
-	AL["Dungeon Quest Epics 1"] = true;
-	AL["Dungeon Quest Epics 2"] = true;
-	AL["Dungeon Quest Epics 3"] = true;
-	AL["Dungeon Quest Epics 4"] = true;
-	AL["Dungeon Quest Epics 5"] = true;
-	AL["Dungeon Quest Epics 6"] = true;
-	AL["Dungeon Quest Epics 7"] = true;
-	AL["Dungeon Quest Epics 8"] = true;
+	AL["Dungeon Quest Epics"] = true;
+	AL["Donation Shop"] = true;
+
 
 
 	-- Crafting Menu
