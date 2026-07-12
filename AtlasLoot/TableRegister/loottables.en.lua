@@ -1804,6 +1804,7 @@ end
 	AtlasLoot_TableNames["MPLUSLEATHER"] = { AL["Mythic+ Leather"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["MPLUSCLOTH"] = { AL["Mythic+ Cloth"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["MPLUSMISC"] = { AL["Mythic+ Misc"], "AtlasLootTriumvirate"};
+	AtlasLoot_TableNames["MPLUSMISC2"] = { AL["Mythic+ Misc"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["MPLUSWEAPONS"] = { AL["Mythic+ Weapons"], "AtlasLootTriumvirate"};
 	AtlasLoot_TableNames["LEGENDARIES"] = { AL["Legendary Items"], "AtlasLootTriumvirate" };
 	AtlasLoot_TableNames["WALKOFECHOES"] = { AL["Walk of Echoes"], "AtlasLootTriumvirate" };
